@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Konsoliohjelma 01 Faker": {
+      "commandName": "Project",
+      "commandLineArgs": "--personcount 2"
+    }
+  }
+}

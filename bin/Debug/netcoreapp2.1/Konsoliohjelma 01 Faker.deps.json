@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Konsoliohjelma 01 Faker/1.0.0": {
+        "dependencies": {
+          "Faker.Net": "2.0.154"
+        },
+        "runtime": {
+          "Konsoliohjelma 01 Faker.dll": {}
+        }
+      },
+      "Faker.Net/2.0.154": {
+        "runtime": {
+          "lib/netstandard2.0/Faker.Net.Standard.2.0.dll": {
+            "assemblyVersion": "2.0.154.0",
+            "fileVersion": "2.0.154.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/de-DE/Faker.Net.Standard.2.0.resources.dll": {
+            "locale": "de-DE"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konsoliohjelma 01 Faker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Faker.Net/2.0.154": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pkabhT7wxNR1gkPO6ga77XdeqBblaE8a1oY47eMGGvM7DMZ9S8ARZrKkRWaPUNjGCOqtH3oeQSMuEPxd98ir4w==",
+      "path": "faker.net/2.0.154",
+      "hashPath": "faker.net.2.0.154.nupkg.sha512"
+    }
+  }
+}

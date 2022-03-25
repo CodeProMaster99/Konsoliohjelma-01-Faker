@@ -1,0 +1,12 @@
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\bin\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.deps.json
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\bin\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.runtimeconfig.json
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\bin\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.runtimeconfig.dev.json
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\bin\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.dll
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\bin\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.pdb
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.AssemblyInfoInputs.cache
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.AssemblyInfo.cs
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.csproj.CoreCompileInputs.cache
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.dll
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.pdb
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.genruntimeconfig.cache

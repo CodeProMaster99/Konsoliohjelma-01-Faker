@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "SHpKbBibI6NurClMwCwy6kqJHvepBuUmoty4xSOrM8xUR+ZrkcmUNZuHch9Y1fITh4JbUneLV1yIkqk3DdU+3Q==",
+  "dgSpecHash": "8EuR7jZeytPVbjYFjbzxXOvSiAcpp2cZUDOufU+TlP6Ghq2bJk46BLcv3cinIvJ+KLiz3lBHnD0h0edBCnG3Rg==",
   "success": true,
   "projectFilePath": "C:\\Users\\s2000923\\source\\repos\\Konsoliohjelma 01 Faker\\Konsoliohjelma 01 Faker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s2000923\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
-    "C:\\Users\\s2000923\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\s2000923\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\s2000923\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\s2000923\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\s2000923\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\s2000923\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\s2000923\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
     "C:\\Users\\s2000923\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
