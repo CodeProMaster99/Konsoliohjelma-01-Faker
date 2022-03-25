@@ -10,3 +10,4 @@ C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\K
 C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.dll
 C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.pdb
 C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.genruntimeconfig.cache
+C:\Users\s2000923\source\repos\Konsoliohjelma 01 Faker\obj\Debug\netcoreapp2.1\Konsoliohjelma 01 Faker.csproj.AssemblyReference.cache
